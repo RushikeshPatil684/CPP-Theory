@@ -1,4 +1,4 @@
-//C++ program ti create calculator using
+//C++ program to create calculator using
 //switch statement
 #include <iostream>
 using namespace std;
